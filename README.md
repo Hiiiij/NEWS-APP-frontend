@@ -7,7 +7,9 @@ The application allows users to browse curated news categories such as Featured,
 
 ## Figma Design
 
-![Design Reference] (public/img/COLOR SYSTEM.jpg)
+![Design Reference](./img/desktop_view.jpg)
+![Design Reference](./img/mobile_view.jpg)
+![Design Reference](./img/color_system.jpg)
 
 ## Features
 
